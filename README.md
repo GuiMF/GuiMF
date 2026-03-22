@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @GuiMF
-- 👀 I’m interested in programming and surfing
-- 🌱 I’m currently learning JavaScript
+- SWE - Luel
 - 📫 guilhememoraferia@gmail.com
 
 <!---
