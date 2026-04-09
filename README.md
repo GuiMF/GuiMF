@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GuiMF
-- SWE - Luel
+- SWE - Luel.ai
 - gferia.com
 
 <!---
